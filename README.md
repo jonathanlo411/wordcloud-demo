@@ -1,5 +1,5 @@
 # Wordcloud Demo
-Purpose is to demonstrate how to load words fron a JSON transcript into a word cloud.
+Purpose is to demonstrate how to load words from a JSON transcript into a word cloud. Try it yourself at [wordcloud-demo.lojot.com/](https://wordcloud-demo.lojot.com/)!
 
 ## Usage
 1. Select specifc transcript from the dropdown menu.
