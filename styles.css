@@ -21,6 +21,25 @@ section {
     padding-top: 3rem;
 }
 
+#user-controls {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.control {
+    width: 40%;
+}
+.control > h2 {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+}
+.control > select, textarea {
+    width: 100%;
+    padding: 0.3rem;
+    resize: none;
+    font-family: 'Poppins';
+}
+
 #error {
     color: red;
     text-align: center;
